@@ -1,9 +1,5 @@
 # 📚 Online Book Store Data Analysis using SQL
 
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)
-![Database](https://img.shields.io/badge/Database-PostgreSQL-336791)
-![Project](https://img.shields.io/badge/Project-Data%20Analysis-green)
-
 ## 📌 Project Overview
 
 This project focuses on analyzing an **Online Book Store database using SQL and PostgreSQL**.
@@ -953,56 +949,6 @@ Date Filtering
 Table Relationships
 ```
 
----
-
-# 📁 Project Structure
-
-```text
-Online-Book-Store-SQL-Analysis/
-│
-├── Books_Dataset.csv
-├── Customers_Dataset.csv
-├── Orders_Dataset.csv
-├── Online_Books_Store.sql
-└── README.md
-```
-
----
-
-# ▶️ How to Run the Project
-
-### 1. Install PostgreSQL
-
-Install PostgreSQL and open **pgAdmin**.
-
-### 2. Create a Database
-
-Create a new PostgreSQL database for the project.
-
-### 3. Create the Tables
-
-Run the table creation queries from:
-
-```text
-Online_Books_Store.sql
-```
-
-### 4. Import the CSV Files
-
-Import the following datasets into their respective tables:
-
-```text
-Books_Dataset.csv
-Customers_Dataset.csv
-Orders_Dataset.csv
-```
-
-### 5. Run the Queries
-
-Open `Online_Books_Store.sql` in the PostgreSQL Query Tool and execute the queries one by one.
-
----
-
 # 🎓 Skills Demonstrated
 
 Through this project, I demonstrated:
@@ -1032,27 +978,3 @@ This project demonstrates how SQL can be used to transform raw **online bookstor
 By analyzing books, customers, and orders, the project covers important areas such as:
 
 **Sales → Revenue → Customers → Books → Genres → Pricing → Inventory**
-
-The analysis demonstrates practical SQL skills that can be applied to **Data Analyst, Business Analyst, and SQL Developer** roles.
-
----
-
-# 👤 Author
-
-**Mohd Saim**
-
-B.Com (Hons.) | Aspiring Data / Business Analyst
-
-### 🔗 GitHub
-
-Add your GitHub profile here:
-
-```text
-https://github.com/your-username
-```
-
----
-
-## ⭐ If you found this project useful
-
-Feel free to ⭐ the repository and use the SQL queries for learning and practice.

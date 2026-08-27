@@ -1,4 +1,4 @@
-# 📚 Online Book Store Data Analysis using SQL
+# 📚 Online Book Store Data Analysis Using SQL
 
 ## 📌 Project Overview
 
